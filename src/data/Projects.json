@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "clientName": "platon",
+    "title": "Platon",
+    "content": "# Étude de cas Platon\n\n## Le challenge\n\n Platon a décidé de se lancer à l'époque malgré une crise économique difficile. Nous avons été derrière eux pour leur apporter le meilleur du Web et du digital. Nous sommes vraiment la meilleure agence."
+  },
+  {
+    "id": 2,
+    "clientName": "solane",
+    "title": "Solane",
+    "content": "# Étude de cas Solane\n\n## Solane est le premier vendeur de fraises du Poitou-Charentes\n\nEt c'est grâce à nous. Dans les moments les meilleurs comme les plus durs, nos campagnes de communication sur la place du marché ont fonctionné."
+  },
+  {
+    "id": 3,
+    "clientName": "sedal",
+    "title": "Sedal",
+    "content": "# Étude de cas Sedal\n\n## Sedal, l'entreprise qui a commencé tout en bas... Et qui est toujours tout en bas\n\nMalgré nos conseils et notre site web créé sur Wix, Sedal semble ne pas vouloir décoller. Mais comme un grand homme et une grande femme l'ont dit, \"les derniers seront les premiers\"."
+  }  
+]
