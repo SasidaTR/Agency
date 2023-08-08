@@ -75,8 +75,8 @@ body {
   border-radius: 8px;
   padding: 2rem;
   margin: 3rem;
-  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1); /* Ombre inversée */
-  color: white; /* Couleur de texte inversée */
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+  color: white;
   font-size: 18px;
   text-align: center;
 }
